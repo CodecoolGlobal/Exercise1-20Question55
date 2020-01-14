@@ -1,0 +1,11 @@
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\obj\Debug\netcoreapp3.1\Exercise1-20.csprojAssemblyReference.cache
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\obj\Debug\netcoreapp3.1\Exercise1-20.AssemblyInfoInputs.cache
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\obj\Debug\netcoreapp3.1\Exercise1-20.AssemblyInfo.cs
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.exe
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.deps.json
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.runtimeconfig.json
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.runtimeconfig.dev.json
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.dll
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\bin\Debug\netcoreapp3.1\Exercise1-20.pdb
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\obj\Debug\netcoreapp3.1\Exercise1-20.dll
+C:\CSharp\Week0\SI\Exercise1-20\Exercise1-20\Exercise1-20\obj\Debug\netcoreapp3.1\Exercise1-20.pdb
